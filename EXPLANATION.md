@@ -9,4 +9,4 @@ To prepare this repository for production readiness, I would:
 2. Implement CI (Github Actions) to run linting, tests, and build steps automatically on PRs
 3. Add semantic versioning and a changelog generated from structured commits
 4. Ensure secrets and deployment credentials are stored in a secrets manager and not in the repository
-5. Add automated deployment (CD) to a static host (Github Pages) with development and staging environments for PRs, and expand tests and montoring.
+5. Add automated deployment (CD) to a static host (Github Pages) with development and staging environments for PRs, and expand tests and monitoring.
