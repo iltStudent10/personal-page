@@ -11,6 +11,9 @@ This repository contains a simple static site, documentation, and an EXPLANATION
     ```
 2. Open index.html in a browser to view the site,
 
+## View Locally
+Open index.html in your browser or serve with a simple static server (python -m http.server). Consider enabling Github Pages for a live URL.
+
 ## Repository Structure
 1. index.html - Landing Page
 2. assets/css/styles.css - basic styling
