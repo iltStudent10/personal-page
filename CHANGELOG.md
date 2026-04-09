@@ -13,3 +13,7 @@ Initial Release including:
 Client-side contact form - PR #1:
 - Added client-side contact form demo (feature/add-contact-form)
 - Wired contact form into landing page (index.html)
+
+[v0.3.0] - 2026-04-09
+CHANGELOG.md - PR #2:
+- Added initial CHANGELOG.md to track notable changes for the project
